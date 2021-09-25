@@ -1,0 +1,18 @@
+
+.g-col-6{
+    height: 3em;
+    background-color: blueviolet;
+    padding: auto;
+    margin: top 10px;
+    gap: 10px;
+    -ms-flex-wrap: wrap-reverse;
+}
+
+.container {
+    background-color: chocolate;
+    height: auto;
+}
+.col b{
+    padding: auto;
+    background-color: cornflowerblue;
+}
